@@ -2,7 +2,7 @@
 - 👀 I’m interested in web design and website development, mobile app development.
 - 🌱 I’m currently learning software development at Power Learn Project Academy Africa.
 - 💞️ I’m looking to collaborate on database management and networking.
-- 📫 How to reach me @x0ibor on X
+- 📫 How to reach me @x0kibor on X
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
 
